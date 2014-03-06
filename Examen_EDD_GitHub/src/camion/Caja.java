@@ -6,6 +6,8 @@ package camion;
  * @see Caja#Caja(String, String, double)
  */
 
+// Modificacion para el ejercicio de GitHub
+
 public class Caja {
 	
 	public String idCaja;		// id (codigo de barras) qupackage camion;e identifica a la caja	
